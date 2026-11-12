@@ -30,3 +30,6 @@ No test runner is configured yet.
 - Layouts use the global typed helper `LayoutProps<"/">` (generated route types), not hand-written props types.
 - Path alias `@/*` maps to the repo root.
 - `pnpm-workspace.yaml` disables build scripts for `sharp` and `unrs-resolver`.
+
+## Skills
+Always use /frontend-design to design the UI
